@@ -3,27 +3,33 @@
     "consoles": [
         {
             "name": "Game Boy",
-            "folder": "gb-alt"
+            "folder": "gb-alt",
+            "core": "mgba"
         },
         {
             "name": "Game Boy Advance",
-            "folder": "gba-alt"
+            "folder": "gba-alt",
+            "core": "mgba"
         },
         {
             "name": "Game Boy Color",
-            "folder": "gbc-alt"
+            "folder": "gbc-alt",
+            "core": "mgba"
         },
         {
             "name": "SNES",
-            "folder": "snes-alt"
+            "folder": "snes-alt",
+            "core": "snes"
         },
         {
             "name": "NES",
-            "folder": "nes-alt"
+            "folder": "nes-alt",
+            "core": "nes"
         },
         {
             "name": "Sega MD",
-            "folder": "segaMD-alt"
+            "folder": "segaMD-alt",
+            "core": "segaMD"
         }
     ]
 }
