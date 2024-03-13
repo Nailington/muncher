@@ -1,0 +1,29 @@
+{
+    "name": "MSG's Test library!",
+    "consoles": [
+        {
+            "name": "Game Boy",
+            "folder": "gb-alt"
+        },
+        {
+            "name": "Game Boy Advance",
+            "folder": "gba-alt"
+        },
+        {
+            "name": "Game Boy Color",
+            "folder": "gbc-alt"
+        },
+        {
+            "name": "SNES",
+            "folder": "snes-alt"
+        },
+        {
+            "name": "NES",
+            "folder": "nes-alt"
+        },
+        {
+            "name": "Sega MD",
+            "folder": "segaMD-alt"
+        }
+    ]
+}

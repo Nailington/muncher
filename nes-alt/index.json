@@ -1,0 +1,12 @@
+{
+    "games": [
+        {
+            "title": "Mega Man 2",
+            "file": "Mega_Man_2.nes.zip"
+        },
+        {
+            "title": "Pacman CE",
+            "file": "pacman_ce.nes.zip"
+        }
+    ]
+}

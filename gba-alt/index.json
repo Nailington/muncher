@@ -1,0 +1,12 @@
+{
+    "games": [
+        {
+            "title": "007",
+            "file": "007.gba"
+        },
+        {
+            "title": "Advanced Wars",
+            "file": "advancedwars.gba"
+        }
+    ]
+}

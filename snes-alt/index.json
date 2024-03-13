@@ -1,0 +1,12 @@
+{
+    "games": [
+        {
+            "title": "F-Zero",
+            "file": "F-Zero.zip"
+        },
+        {
+            "title": "Super Metroid",
+            "file": "Super_Metroid.zip"
+        }
+    ]
+}
